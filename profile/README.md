@@ -68,8 +68,6 @@ For any questions, check the **Wiki** or open a **Discussion** to ask for clarif
 
 ---
 
----
-
 ### 🤝 Join the Mission — Developers Welcome!
 
 At **SeePaw**, we believe technology can be a force for compassion.  
