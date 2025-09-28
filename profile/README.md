@@ -47,4 +47,37 @@ Manage visit requests and coordinate schedules between animals and their sponsor
 Every animal deserves love, care, and a chance at happiness. Whether you're ready for the full commitment of ownership or want to start with fostering, SeePaw makes it possible to make a real difference in an animal's life.
 
 ---
+
+### 🧭 How to start contributing?
+
+Start by checking out our **[project-artifacts](https://github.com/see-paw/project-artifacts)** repository and its **[Wiki](https://github.com/see-paw/project-artifacts/wiki)**.  
+There you’ll find the complete **Software Configuration Management Plan**, including:
+- 📋 **Project scope** and objectives  
+- 🧠 **Requirements** and approval process  
+- 🧪 **Test plans** and specifications  
+- 🧩 **Diagrams** and system design  
+- 🧾 **Meeting records** and checklists  
+
+⚠️ Familiarize yourself with the **branching strategy**, **commit message conventions**, and **pull request workflow** described in the wiki.  
+All contributions must:
+- Follow the defined **naming conventions**  
+- Be associated with a **GitHub issue** or **user story**  
+- Include meaningful **commit messages** and **documentation updates**  
+
+For any questions, check the **Wiki** or open a **Discussion** to ask for clarification 🐾
+
+---
+
+---
+
+### 🤝 Join the Mission — Developers Welcome!
+
+At **SeePaw**, we believe technology can be a force for compassion.  
+By contributing to this project, you’re not just writing code — you’re helping build a bridge between **rescue animals** and **loving hearts**.  
+Whether you’re passionate about **software engineering**, **animal welfare**, or simply want to make an impact, your skills can help us expand this platform and bring hope to more animals in need.  
+
+🐾 Every pull request is a step toward a kinder world.  
+✨ Let’s code with purpose — for them. ❤️
+
+---
 © 2025 SeePaw | Built with 🐕💕
