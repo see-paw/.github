@@ -27,15 +27,15 @@ Temporary life situations
 ---
 
 ### As an "Owner," you have a lifelong commitment to your animal while they stay safe at the rescue center between your visits.
-🐱 Smart Animal Catalog
+- 🐱 Smart Animal Catalog
 Browse through detailed profiles of adorable cats and dogs waiting for love. Filter by age, size, breed, and availability status (available/fostering/ownership active).
-💝 Flexible Payment System
+- 💝 Flexible Payment System
 Simple monthly payment **simulation** with mock receipts for both fostering and ownership programs. Set your own sponsorship amount or commit to full ownership responsibilities.
-📅 Visit Scheduling System
+- 📅 Visit Scheduling System
 Book quality time with your sponsored or owned animal through our easy scheduling platform. Rescue centers confirm all visits to ensure the best experience for everyone.
-🌟 User Dashboard
+- 🌟 User Dashboard
 Manage all your active sponsorships, ownership contracts, and visit history in one beautiful, easy-to-use interface.
-❤️ Favorites & Search
+- ❤️ Favorites & Search
 Save your favorite animals and use powerful search and filtering tools to find your perfect companion by name, rescue center, type, color, age, and more.
 
 ---
