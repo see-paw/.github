@@ -41,13 +41,13 @@ Save your favorite animals and use powerful search and filtering tools to find y
 ---
 
 ### 🏥 For Rescue Centers (CCA Admin)
-🐕‍🦺 Complete Animal Management
+- 🐕‍🦺 Complete Animal Management
 Manage your rescue animals with photo uploads and detailed profile management.
-📋 Request Management
+- 📋 Request Management
 Streamlined workflow for handling fostering and ownership applications with approval processes and contract management.
-📸 Center Showcase
+- 📸 Center Showcase
 Upload beautiful photos of your rescue center to build trust and showcase your facilities to potential supporters.
-🗓️ Schedule Coordination
+- 🗓️ Schedule Coordination
 Manage visit requests and coordinate schedules between animals and their sponsors/owners.
 
 🌈 Join Our Mission
