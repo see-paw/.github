@@ -1,4 +1,4 @@
-# 🐾 **SeePaw**  *Connecting Hearts with Paws 💖* 
+# 🐾 **SeePaw**  *Connecting Hearts with Paws* 
 
  **Building a better future for our four-legged friends — one connection at a time.**  
   
