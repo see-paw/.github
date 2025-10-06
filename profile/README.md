@@ -2,7 +2,7 @@
 
  **Building a better future for our four-legged friends — one connection at a time.**  
   
-SeePaw is an innovative digital platform that bridges the gap between **animal lovers** and **rescue centers**,  
+**SeePaw** is an innovative digital platform that bridges the gap between **animal lovers** and **rescue centers**,  
 creating meaningful relationships through **Fostering** and **Ownership** programs  
 that give animals the **love and care they truly deserve**.
 
